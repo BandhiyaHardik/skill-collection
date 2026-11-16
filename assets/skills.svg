@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" width="96" height="96" role="img" aria-label="Skill collection">
+  <rect width="96" height="96" rx="20" fill="#173B39"/>
+  <path d="M23 28h50v10H23z" fill="#E9F8EF"/>
+  <path d="M23 43h50v10H23z" fill="#9EDABD"/>
+  <path d="M23 58h50v10H23z" fill="#5ABC99"/>
+  <path d="M31 29v8m0 7v8m0 7v8" stroke="#173B39" stroke-width="3"/>
+</svg>

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Lesson Screen"
+  short_description: "Preview lesson figures and code traces in a browser"
+  default_prompt: "Use $lesson-screen to open a browser screen for the lesson I am learning."

@@ -1,0 +1,26 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "skill-collection-86",
+  "version": "1.0.0",
+  "description": "Hardik Bandhiya's curated collection of 86 Agent Skills for marketing, AI learning, and software development, adapted for Codex with upstream credit.",
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "displayName": "Hardik Bandhiya's Skills",
+        "shortDescription": "A curated toolkit for work and study",
+        "longDescription": "A personal selection of 86 skills spanning marketing, AI learning, and software development. Adapted for Codex from credited open-source projects; see README and THIRD_PARTY_NOTICES for sources. Some workflows require supplied files, a connected service, a code runtime, or a local project.",
+        "category": "Productivity",
+        "capabilities": [
+          "Interactive"
+        ],
+        "defaultPrompt": [
+          "Use the copywriting skill to draft landing page copy from my brief.",
+          "Use the start-learning skill to plan my AI engineering learning path.",
+          "Use the systematic-debugging skill to investigate a failing test."
+        ],
+        "logo": "./assets/skills.svg",
+        "composerIcon": "./assets/skills.svg"
+      }
+    }
+  }
+}

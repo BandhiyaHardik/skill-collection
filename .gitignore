@@ -1,0 +1,15 @@
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+__pycache__/
+.venv/
+node_modules/
+.superpowers/
+.agents/product-marketing.md
+LEARNING.md
+MCP-LEARNING.md
+AGENT-SKILLS-LEARNING.md
+REVERSE-ENGINEERING-LEARNING.md
+CLAUDE-CERTIFICATION.md
